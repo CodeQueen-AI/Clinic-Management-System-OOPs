@@ -7,7 +7,7 @@ Ye program ek **hospital management system** ka basic simulation hai jo **patien
 
 
 
-## **⭐Features / Functionalities**
+## **⭐Features**
 
 1. **Patient Management**
 
